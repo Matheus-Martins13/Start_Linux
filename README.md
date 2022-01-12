@@ -1,11 +1,11 @@
 # Start Linux
-Este repositório tem o propósito de ajudar as pessoas a iniciarem no mundo Linux. Aqui falarei sobre as principais distribuições disponíveis,sobre minhas experiências como usuário, deixarei dicas de vídeos e outros artigos para que a comunidade tenha uma melhor visão sobre como o uso do Linux pode ser agradável e fácil, para os que estiverem dispostos a experimentá-lo. 
+Este repositório tem o propósito de ajudar as pessoas a iniciarem no mundo Linux. Aqui falarei sobre as principais distribuições disponíveis, sobre minhas experiências como usuário, deixarei dicas de vídeos e outros artigos para que a comunidade tenha uma melhor visão sobre como o uso do Linux pode ser agradável e fácil, para os que estiverem dispostos a experimentá-lo. 
 
 <img src="https://images.unsplash.com/photo-1629654297299-c8506221ca97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80">
 
 ## Meu ponto de vista sobre a importância do Linux 
 Desde 2020, eu utilizo distribuições Linux no meu dia a dia, como sistema principal da minha máquina. E, pra ser sincero, eu nunca me senti tão produtovo quanto me sinto com algumas distros Linux. Eu não me considero um especialista em Linux, sou apenas um usuário que ainda está caminhando para se aprofundar mais nesse mundo tão incrível, e estou disposto a passar os meus conhecimentos que obtive até hoje para usuários que estão ingressando agora. 
-segundo o W3Techs, existe um total de 70,6% de sistemas rodando em servidores pelo mundo, baseados em Unix. Deste total, 45,4% são servidores Linux. Desta forma, percebemos que saber Linux é muito importante para a área da programação (acredito que em qualquer vertente da programação, o Linux seja importante).
+Segundo o W3Techs, existe um total de 70,6% de sistemas rodando em servidores pelo mundo, baseados em Unix. Deste total, 45,4% são servidores Linux. Desta forma, percebemos que saber Linux é muito importante para a área da programação (acredito que em qualquer vertente da programação, o Linux seja importante).
 Tendo isso em mente, qual é a melhor forma de se habituar a um sistema, senão trabalhando diariamente com ele? Pensando nisso, vou dar algumas dicas de distribuições Linux para pessoas que estão querendo sair do Windows e começar a utilizar Linux.
 
 ## Distribuições Linux

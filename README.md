@@ -5,7 +5,7 @@ Este repositório tem o propósito de ajudar as pessoas a iniciarem no mundo Lin
 
 ## Meu ponto de vista sobre a importância do Linux 
 Desde 2020, eu utilizo distribuições Linux no meu dia a dia, como sistema principal da minha máquina. E, pra ser sincero, eu nunca me senti tão produtovo quanto me sinto com algumas distros Linux. Eu não me considero um especialista em Linux, sou apenas um usuário que ainda está caminhando para se aprofundar mais nesse mundo tão incrível, e estou disposto a passar os meus conhecimentos que obtive até hoje para usuários que estão ingressando agora. 
-Segundo o W3Techs, existe um total de 70,6% de sistemas rodando em servidores pelo mundo, baseados em Unix. Deste total, 45,4% são servidores Linux. Desta forma, percebemos que saber Linux é muito importante para a área da programação (acredito que em qualquer vertente da programação, o Linux seja importante).
+Segundo o W3Techs, existe um total de 70,6% de sistemas rodando em servidores pelo mundo, baseados em Unix. Deste total, 45,4% são servidores Linux. Desta forma, percebemos que saber Linux é muito importante para a área da programação (acredito que em qualquer vertente da programação, o Linux seja importante). Mas deixo claro que não só desenvolvedores podem se beneficiar com o uso de Linux, mas todas as pessoas, uma vez que as distribuições tendem a ser muito boas e gratuitas.
 Tendo isso em mente, qual é a melhor forma de se habituar a um sistema, senão trabalhando diariamente com ele? Pensando nisso, vou dar algumas dicas de distribuições Linux para pessoas que estão querendo sair do Windows e começar a utilizar Linux.
 
 ## Distribuições Linux

@@ -3,6 +3,12 @@ Este repositório tem o propósito de ajudar as pessoas a iniciarem no mundo Lin
 
 <img src="https://images.unsplash.com/photo-1629654297299-c8506221ca97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80">
 
+# Distribuições e Kernel Linux 
+Primeiramente, é importante salientar que Linux não é um sistema operacional em si, mas o kernel, isto é, o núcleo do sistema. O kernel é o componente central de um sistema operacional, que serve como ponte entre o software e o hardware do comportador. As responsabilidades do kernel incluem gerenciar os recursos do sistema. O kernel Linux se iniciou em 1991, pelo estudante universitário Linus Torvalds (o nome Linux é em homenagem ao Linus).
+
+Distribuições Linux, também chamadas de distros, são os sistemas operacionais que utilizam o Linux como kernel. Existem centenas de distribuições Linux, seja para uso em Desktop ou para servidores. Exemplo: ArchLinux, Linux Mint, Debian, Fedora, Ubuntu, Zorin OS, Pop!_OS, Gentoo, dentre muitas outras. As distribuições Linux são de código aberto e, em sua grande maioria, gratuias. 
+
+
 ## Meu ponto de vista sobre a importância do Linux 
 Desde 2020, eu utilizo distribuições Linux no meu dia a dia, como sistema principal da minha máquina. E, pra ser sincero, eu nunca me senti tão produtovo quanto me sinto com algumas distros Linux. Eu não me considero um especialista em Linux, sou apenas um usuário que ainda está caminhando para se aprofundar mais nesse mundo tão incrível, e estou disposto a passar os meus conhecimentos que obtive até hoje para usuários que estão ingressando agora. 
 Segundo o W3Techs, existe um total de 70,6% de sistemas rodando em servidores pelo mundo, baseados em Unix. Deste total, 45,4% são servidores Linux. Desta forma, percebemos que saber Linux é muito importante para a área da programação (acredito que em qualquer vertente da programação, o Linux seja importante). Mas deixo claro que não só desenvolvedores podem se beneficiar com o uso de Linux, mas todas as pessoas, uma vez que as distribuições tendem a ser muito boas e gratuitas.

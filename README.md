@@ -6,7 +6,7 @@ Este repositório tem o propósito de ajudar as pessoas a iniciarem no mundo Lin
 # Distribuições e Kernel Linux 
 Primeiramente, é importante salientar que Linux não é um sistema operacional em si, mas o kernel, isto é, o núcleo do sistema. O kernel é o componente central de um sistema operacional, que serve como ponte entre o software e o hardware do comportador. As responsabilidades do kernel incluem gerenciar os recursos do sistema. O kernel Linux se iniciou em 1991, pelo estudante universitário Linus Torvalds (o nome Linux é em homenagem ao Linus).
 
-Distribuições Linux, também chamadas de distros, são os sistemas operacionais que utilizam o Linux como kernel. Existem centenas de distribuições Linux, seja para uso em Desktop ou para servidores. Exemplo: ArchLinux, Linux Mint, Debian, Fedora, Ubuntu, Zorin OS, Pop!_OS, Gentoo, dentre muitas outras. As distribuições Linux são de código aberto e, em sua grande maioria, gratuias. 
+Distribuições Linux, também chamadas de distros, são os sistemas operacionais que utilizam o Linux como kernel. Existem centenas de distribuições Linux, seja para uso em Desktop ou para servidores. Exemplo: ArchLinux, Linux Mint, Debian, Fedora, Ubuntu, Zorin OS, Pop! OS, Gentoo, dentre muitas outras. As distribuições Linux são de código aberto e, em sua grande maioria, gratuitas. 
 
 
 ## Meu ponto de vista sobre a importância do Linux 

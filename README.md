@@ -21,7 +21,7 @@ Tendo isso em mente, qual é a melhor forma de se habituar a um sistema, senão 
 
 3. Pop! OS: É uma distribuição também baseada no Ubuntu, que atualmente está utilizando o desktop GNOME, mas em breve terá a sua prórpria interface gráfica chamada COSMIC. Essa distro é desenvolvida pela empresa estadunidense chamada System76. O Pop! OS está se consolidando muito entre os usuários Linux nos últimos anos, e vale muito a pena utilizá-lo. 
 
-Links para os sites de cada sistema citado: 
+Links para os sites de cada distribuição citada: 
 - Linux Mint: https://linuxmint.com/
 - Zorin OS: https://zorin.com/
 - Pop!_OS: https://pop.system76.com/

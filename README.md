@@ -1,4 +1,5 @@
 # Start Linux
+
 Este repositório tem o propósito de ajudar as pessoas a iniciarem no mundo Linux. Aqui falarei sobre as principais distribuições disponíveis, sobre minhas experiências como usuário, deixarei dicas de vídeos e outros artigos para que a comunidade tenha uma melhor visão sobre como o uso do Linux pode ser agradável e fácil, para os que estiverem dispostos a experimentá-lo. 
 
 <img src="https://images.unsplash.com/photo-1629654297299-c8506221ca97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80">

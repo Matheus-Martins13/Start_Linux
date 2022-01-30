@@ -32,4 +32,14 @@ Links para os sites de cada distribuição citada:
 - Zorin OS: https://zorin.com/
 - Pop!_OS: https://pop.system76.com/
 
-Recomendo, ainda, para os que desejam continuarem utilizando Windows, que pesquisem sobre o WSL 2 (Windows Subsystem for Linux).
+### E o Terminal? 
+Muitas pessoas têm dúvidas sobre o uso do terminal Linux, que pode parecer assustador, para quem nunca teve contato. É verdade que o terminal é uma ferramente extraordinária, que lhe dá o poder de controlar todo o sistema operacional através de linhas de comando, e sem dúvida alguma é muito importante que se tenha algum conhecimento sobre ele, ainda mais se você deseja lidar com servidores Linux, mas é verdade também que não é um requisito saber lidar com o terminal para utilizar distribuições Linux cotidianamente. Atualmente, os sistemas Linux permitem que você faça as suas tarefas através da interface gráfica, que costumam ser bastente amigáveis, principalmente nas distribuições que já citei anteriormente, então não há uma necessidade de saber lidar com o terminal, caso você só deseje fazer suas tarefas cotidianas com o sistema. 
+É claro que ter conhecimentos sobre o terminal é muito bom, e conhecimento nunca é demais, então vou deixar algumas recomendações de cursos totalmente gratuitos e com certificação sobre Linux e terminais linux, em uma plataforma voltada para a tecnologia chamada Digital Innovation One. Eu mesmo já fiz alguns cursos lá, e os professores são muito bons, eu recomendo fortemente que você tire um tempo para estudar, porque o conhecimento é libertador, e vale a pena se aprofundar. 
+
+1. Linux: A Intridução ao Sitema Operacional - https://web.dio.me/course/linux-a-introducao-ao-sistema-operacional/learning/e7f619cd-dda9-482a-bd09-88e9b1d26098/?back=/browse
+
+2. Linux: A Intridução ao Sitema Operacional e Terminal - https://web.dio.me/course/linux-introducao-ao-sistema-operacional-e-terminal/learning/66427a67-084d-42fa-aa7b-0def2c50af23/?back=/browse
+
+3. Linux: Diretórios e Comandos Essenciais - https://web.dio.me/course/linux-diretorios-e-comandos-essenciais/learning/ed5e7852-6e87-47f2-ac18-1a57e571afba/?back=/browse
+
+4. Linux: Gerenciamento de Pacotes - https://web.dio.me/course/linux-gerenciamento-de-pacotes/learning/e5b69d0d-c041-4b57-b1fd-3cfbb50d459e/?back=/browse

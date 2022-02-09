@@ -49,20 +49,26 @@ Muitas pessoas têm dúvidas sobre o uso do terminal Linux, que pode parecer ass
 Desktop Enviroment e Interface Gráfica: Apesar de serem semelhantes, "Desktop Enviroment" e "Interface Gráfica" não são exatamente a mesma coisa. Desktop Enviroment engloba muito mais do que somente a interface, mas todos os programas que compõem os sistema operacional. Podem eventualmente ocorrer junções entre interfaces diferentes e Desktop Enviroments, um sistema que use uma interface gráfica "X" e use aplicações que fazem parte de outro DE.
 
 1 - Gnome
+
 Gnome Shell: O Gnome é um dos Desktop Enviroments mais populares de todos os tempos, não se restringindo somente à interface, mas a várias aplicações que compõem toda ela, como o gerenciador de arquivos Nautilus, que é um dos grandes destaques.
 
 2 - KDE
+
 KDE Plasma: O KDE também é um projeto grande como o Gnome, a interface gráfica do projeto, o Plasma, é utilizado por milhares de pessoas ao redor do mundo. Além disso, o projeto KDE tem uma série de programas variados para diversas funções. O Dolphin é o gerenciador de arquivos.
 
 3 - Cinnamon Desktop
+
 Cinnamon Desktop: Ao contrário dos dois primeiros, o Cinnamon é um projeto mais recente. Criado como um fork do Gnome, o Cinnamon hoje conta com uma série de aplicações próprias, porém, ainda não possui tantos programas quanto o projeto Gnome. O gerenciador de arquivos é o Nemo, um fork do Nautilus.
 
 4 - MATE Desktop
+
 MATE Desktop: Assim como o Cinnamon começou como um fork do Gnome 3, o MATE começou como um fork do Gnome 2, mantendo vivo o gosto de usar este desktop tradicional amado por muitas pessoas, mas claro que ele não ficou parado no tempo, muitas melhorias e otimizações foram colocadas no MATE, assim podemos dizer que o MATE continuou de onde o Gnome 2 parou. O gestor de arquivos do MATE Desktop é o Caja.
 
 5 - XFCE 
+
 XFCE Desktop: Amado pelos usuários que gostam de simplicidade misturada com leveza e um desktop muito personalizável, o XFCE seguiu seu próprio caminho ao longo dos anos criando a sua própria identidade. O visual padrão do XFCE traz uma barra na parte superior e um menu com campo de busca atualmente, porém, pesquisando entre as distribuições você vai encontrar várias customizações diferentes a ponto do XFCE ficar muito diferente do que ele é originalmente. Seu gerenciador de arquivos padrão é o Thunar, mas além dele existem uma série de aplicações do projeto que ajudam a compor todo o DE.
 
 Este tópico foi baseado nesta puplicação do site Viva Linux: https://www.vivaolinux.com.br/topico/Iniciantes-no-Linux/Quais-as-diferencas-entre-essas-interfaces-graficas
+
 Você pode encontrar um vídeo detalhando aqui: https://www.youtube.com/watch?v=Tky9ExbAeD4
 

@@ -109,6 +109,7 @@ Tudo comaça no diretório '/', que seria como o 'C:\' do Windows. Esta é a ra�
 /root/ --> Diretório do usuário root. O usuário root tem total poder sobre o sistema. Podendo instalar, desinstalar, configurar, etc.. 
 
 Referências: 
+
 https://canaltech.com.br/linux/entendendo-a-estrutura-de-diretorios-do-linux/
 
 https://www.youtube.com/watch?v=90UseHX4-ns

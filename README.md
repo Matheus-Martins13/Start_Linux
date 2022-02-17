@@ -78,35 +78,35 @@ A estrutura de diretórios do Linux é diferente da do Windows, mas é bem simpl
 
 Tudo comaça no diretório '/', que seria como o 'C:\' do Windows. Esta é a raíz da árvore de diretórios do Linux. Dentro dela contém os demais dretórios. o único usuário do sistema capaz de criar ou mover arquivos do diretório raiz é o root, ou seja, o usuário-administrador.
 
-/bin/ --> Binários principais dos usuários. Neste diretório estão localizados os binários executáveis que podem ser utilizados por qualquer usuário do sistema. São comandos essenciais, usados para trabalhar com arquivos, textos e alguns recursos básicos de rede.
+- /bin/ --> Binários principais dos usuários. Neste diretório estão localizados os binários executáveis que podem ser utilizados por qualquer usuário do sistema. São comandos essenciais, usados para trabalhar com arquivos, textos e alguns recursos básicos de rede.
 
-/sbin/ --> Assim como o /bin, este diretório armazena executáveis, mas com um diferencial: são aplicativos utilizados por administradores de sistema com o propósito de realizar funções de manutenção e outras tarefas semelhantes.
+- /sbin/ --> Assim como o /bin, este diretório armazena executáveis, mas com um diferencial: são aplicativos utilizados por administradores de sistema com o propósito de realizar funções de manutenção e outras tarefas semelhantes.
 
-/usr/ --> Segunda hierarquia do sistema, onde ficam os usuários comuns do sistema e programas. Se você não encontrar um comando no diretório /bin ou /sbin, ele certamente está aqui. O /usr reúne executáveis, bibliotecas e até documentação de softwares usados pelos usuários ou administradores do sistema. Além disso, sempre que você compilar e instalar um programa a partir do código-fonte, ele será instalado nesse diretório.
+- /usr/ --> Segunda hierarquia do sistema, onde ficam os usuários comuns do sistema e programas. Se você não encontrar um comando no diretório /bin ou /sbin, ele certamente está aqui. O /usr reúne executáveis, bibliotecas e até documentação de softwares usados pelos usuários ou administradores do sistema. Além disso, sempre que você compilar e instalar um programa a partir do código-fonte, ele será instalado nesse diretório.
 
-/etc/ --> Arquivos de configuração do sistema (configuração e personalização do sistema). No diretório /etc ficam arquivos de configuração que podem ser usados por todos os softwares, além de scripts especiais para iniciar ou interromper módulos e programas diversos.
+- /etc/ --> Arquivos de configuração do sistema (configuração e personalização do sistema). No diretório /etc ficam arquivos de configuração que podem ser usados por todos os softwares, além de scripts especiais para iniciar ou interromper módulos e programas diversos.
 
-/lib/ --> Bibliotecas essenciais do sistema e os módulos do kernel. Neste ponto do sistema de arquivos ficam localizadas as bibliotecas usadas pelos comandos presentes em /bin e /sbin. Normalmente, os arquivos de bibliotecas começam com os prefixos ld ou lib e possuem "extensão" so.
+- /lib/ --> Bibliotecas essenciais do sistema e os módulos do kernel. Neste ponto do sistema de arquivos ficam localizadas as bibliotecas usadas pelos comandos presentes em /bin e /sbin. Normalmente, os arquivos de bibliotecas começam com os prefixos ld ou lib e possuem "extensão" so.
 
-/opt/ --> Instalação de programas não oficiais da distribuição por conta do usuário (são programas que não queremos que fiquem vinculados diretamente ao sistema, ou até mesmo que pode prejudicar o sistema. Nesse caso, eles ficam separados). Aplicativos adicionais, que não são essenciais para o sistema, terminam neste diretório.
+- /opt/ --> Instalação de programas não oficiais da distribuição por conta do usuário (são programas que não queremos que fiquem vinculados diretamente ao sistema, ou até mesmo que pode prejudicar o sistema. Nesse caso, eles ficam separados). Aplicativos adicionais, que não são essenciais para o sistema, terminam neste diretório.
 
-/home/ --> Diretório dos usuários comuns do sistema. No diretório /home ficam os arquivos pessoais, como documentos e fotografias, sempre dentro de pastas que levam o nome de cada usuário. Vale notar que o diretório pessoal do administrador não fica no mesmo local, e sim em /root.
+- /home/ --> Diretório dos usuários comuns do sistema. No diretório /home ficam os arquivos pessoais, como documentos e fotografias, sempre dentro de pastas que levam o nome de cada usuário. Vale notar que o diretório pessoal do administrador não fica no mesmo local, e sim em /root.
 
-/boot/ --> Arquivos do sistema de Boot (carregar e inicializar o sistema).
+- /boot/ --> Arquivos do sistema de Boot (carregar e inicializar o sistema).
 
-/media/ e /mnt --> Diretório de montagem e dispositivos (quando se coloca um novo dispositivo no computador, o dispositivo é montado, e isso ocorre dentro desse diretório). Para acessar os arquivos de um CD, pendrive ou disco rígido presente em outra máquina da rede, é necessário "montar" esse conteúdo no sistema de arquivos local, isso é, torná-lo acessível como se fosse apenas mais um diretório no sistema. Em /media ficam montadas todas as mídias removíveis, como dispositivos USB e DVDs de dados. Já o diretório /mnt fica reservado aos administradores que precisam montar temporariamente um sistema de arquivos externo.
+- /media/ e /mnt --> Diretório de montagem e dispositivos (quando se coloca um novo dispositivo no computador, o dispositivo é montado, e isso ocorre dentro desse diretório). Para acessar os arquivos de um CD, pendrive ou disco rígido presente em outra máquina da rede, é necessário "montar" esse conteúdo no sistema de arquivos local, isso é, torná-lo acessível como se fosse apenas mais um diretório no sistema. Em /media ficam montadas todas as mídias removíveis, como dispositivos USB e DVDs de dados. Já o diretório /mnt fica reservado aos administradores que precisam montar temporariamente um sistema de arquivos externo.
 
-/srv/ --> Diretórios para dados de serviçõs fornecidos pelo sistema. Dados de servidores e serviços em execução no computador ficam armazenados dentro desse diretório.
+- /srv/ --> Diretórios para dados de serviçõs fornecidos pelo sistema. Dados de servidores e serviços em execução no computador ficam armazenados dentro desse diretório.
 
-/dev/ --> Arquivos de dispositivos (arquvos de dispositivos: drivers, bibliotecas dos dispositivos como placas de rede, USB, etc.) No Linux, tudo é apresentado na forma de arquivos. Ao plugar um pendrive no computador, por exemplo, um arquivo será criado dentro do diretório /dev e ele servirá como interface para acessar ou gerenciar o drive USB. Nesse diretório, você encontra caminhos semelhantes para acessar terminais e qualquer dispositivo conectado ao computador, como o mouse e até modems.
+- /dev/ --> Arquivos de dispositivos (arquvos de dispositivos: drivers, bibliotecas dos dispositivos como placas de rede, USB, etc.) No Linux, tudo é apresentado na forma de arquivos. Ao plugar um pendrive no computador, por exemplo, um arquivo será criado dentro do diretório /dev e ele servirá como interface para acessar ou gerenciar o drive USB. Nesse diretório, você encontra caminhos semelhantes para acessar terminais e qualquer dispositivo conectado ao computador, como o mouse e até modems.
 
-/var/ --> Diretório com arquivos variáveis gerados pelos programas de sistema. Exemplo: logs, histórico da impressora, etc.. Todo arquivo que aumenta de tamanho ao longo do tempo está no diretório de arquivos variáveis.
+- /var/ --> Diretório com arquivos variáveis gerados pelos programas de sistema. Exemplo: logs, histórico da impressora, etc.. Todo arquivo que aumenta de tamanho ao longo do tempo está no diretório de arquivos variáveis.
 
-/proc/ --> Dretório virtual controlado pelo kernel. Nesse diretório são encontrados arquivos que revelam informações sobre os recursos e processos em execução no sistema.
+- /proc/ --> Dretório virtual controlado pelo kernel. Nesse diretório são encontrados arquivos que revelam informações sobre os recursos e processos em execução no sistema.
 
-/tmp/ --> Diretório para arquivos temporários. Arquivos e diretórios criados temporariamente tanto pelo sistema quanto pelos usuários devem ficar nesse diretório. Boa parte deles é apagada sempre que o computador é reiniciado.
+- /tmp/ --> Diretório para arquivos temporários. Arquivos e diretórios criados temporariamente tanto pelo sistema quanto pelos usuários devem ficar nesse diretório. Boa parte deles é apagada sempre que o computador é reiniciado.
 
-/root/ --> Diretório do usuário root. O usuário root tem total poder sobre o sistema. Podendo instalar, desinstalar, configurar, etc.. 
+- /root/ --> Diretório do usuário root. O usuário root tem total poder sobre o sistema. Podendo instalar, desinstalar, configurar, etc.. 
 
 Referências: 
 

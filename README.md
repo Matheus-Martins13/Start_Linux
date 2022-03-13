@@ -113,3 +113,15 @@ Referências:
 https://canaltech.com.br/linux/entendendo-a-estrutura-de-diretorios-do-linux/
 
 https://www.youtube.com/watch?v=90UseHX4-ns
+
+
+## Pacotes, gerenciadores e repositórios
+Um pacote é um arquivo que contém os binários, as configurações e informações sobre as dependências. Pode ser um aplicativo com interface gráfica, uma ferramenta CLI (command line interface) ou alguma biblioteca de software. 
+
+Exemplos de pacotes são os .deb e .rpm, cada um sendo utilizado em suas respectivas distribuições. As distribuições que indiquei neste artigo (Zorin, Pop e Mint), são todas baseadas no Ubuntu, que, por sua vez, basea-se no Debian, que utiliza o pacote.deb, logo, todas elas utilizam pacotes .deb. 
+Para interagir com os sistemas de empacotamento, precisa-se de um gerenciador de pacotes. Um gerenciador de pacotes é uma ferramenta que permite aos usuários instalar, remover, atualizar, configurar e gerenciar pacotes de software. O gerenciador de pacotes pode ser tanto um aplicativo com interface gráfica como uma ferramenta CLI. 
+
+Repositórios são basicamente uma coleção de pacotes de sofware. Os repositórios também têm arquivos de metadados que contêm informações sobre os pacotes. 
+O gerenciador de pacotes, através dos metadados do pacote, cria um cache local de metadados no seu sistema, desta forma, ele pode utilizar esses metadados para se conectar ao repositório e instalar ou atualizar, por exemplo, os pacotes. 
+
+Em alguns casos, um pacote pode ter dependências, isto é, depende de outros pacotes para que ele funcione corretamente. É trabalho do gerenciador de pacotes cuidar da instalação dessas dependências. Em alguns casos, pode ser que você precise instalar manualmente estes pacotes de dependência, mas o seu gerenciador de pacotes irá te informar o que você deve fazer. 
